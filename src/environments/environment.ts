@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyCByCrPPcmnZ37wwgBZGnmqKBLL-eZJ0mc",
-    authDomain: "payeemanagement-872b0.firebaseapp.com",
-    databaseURL: "https://payeemanagement-872b0-default-rtdb.firebaseio.com",
-    projectId: "payeemanagement-872b0",
-    storageBucket: "payeemanagement-872b0.appspot.com",
-    messagingSenderId: "307330009898",
-    appId: "1:307330009898:web:df3f1166dbdbde5d422c53",
-    measurementId: "G-524M2H6Y13"
+    apiKey: "AIzaSyCfnmTChnCh801tXzjFzc79nysT3v9c_N4",
+    authDomain: "payeemanagement-b3286.firebaseapp.com",
+    databaseURL: "https://payeemanagement-b3286-default-rtdb.firebaseio.com",
+    projectId: "payeemanagement-b3286",
+    storageBucket: "payeemanagement-b3286.appspot.com",
+    messagingSenderId: "490746042996",
+    appId: "1:490746042996:web:be2a0bd61e6e60bfe88f21",
+    measurementId: "G-4DRHJR7MDB"
   }
 };
 
